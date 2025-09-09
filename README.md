@@ -2,5 +2,5 @@
 
 # 
 
-# Nous travaillons sur les branches de Git !
+# Nous travaillons sur les branches de Git !!!!
 
